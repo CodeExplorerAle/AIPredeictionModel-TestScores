@@ -1,36 +1,20 @@
-# AI Showcase Project
-Can Ia Computer predict a score based on students time studying and sleep?
+Predicting Test Scores with Study and Sleep Time
 Problem
 
-Can a computer predict a student’s test score based on how much they study and sleep?
-This matters because it shows how real-world factors can be turned into data and used by AI to make predictions. It also demonstrates how machine learning models learn patterns from examples.
+I am trying to determine whether a computer can predict a student’s test score based on how long they study and sleep. This matters because it shows how everyday behaviors can be analyzed using AI.
 
 Solution
 
-I created a simple machine learning model that learns from past student data.
-The model looks at hours studied and hours slept, then predicts a test score. By training the model on existing data, it can make reasonable predictions for new inputs.
+This project uses a simple machine learning model trained on student data. The model predicts test scores using hours studied and hours slept.
 
 Tools
 
-Python
-
-Pandas (data handling)
-
-Scikit-learn (machine learning model)
-
-Google Sheets (creating training data)
-
-GitHub (project publishing)
+Python, Pandas, and Scikit-learn were used to build and train the model. Google Sheets was used to create the dataset, and GitHub was used to publish the project.
 
 Results – Output Screenshot
 
-The model successfully predicts test scores based on study and sleep hours.
-Predictions are close to real values, showing that even a simple AI model can find patterns in data.
-
-Example:
-
-Studied 6 hours, slept 7 hours → Predicted score: ~82
+The model successfully predicts test scores with reasonable accuracy. For example, studying 6 hours and sleeping 7 hours predicts a score of about 82.
 
 Learning
 
-I learned how machine learning models are trained using real data, how Python can be used to build AI projects, and how data quality affects prediction accuracy.
+I learned how machine learning models learn from data and make predictions. I also learned how data quality affects model accuracy,
