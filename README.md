@@ -1,4 +1,4 @@
-# AIPredeictionModel-TestScores
+# AI Showcase Project
 Can Ia Computer predict a score based on students time studying and sleep?
 Problem
 
