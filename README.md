@@ -15,3 +15,4 @@ Results –
 
 <img width="764" height="798" alt="image" src="https://github.com/user-attachments/assets/47e7baef-1567-4f19-8a98-dc5bb3b7dd19" />
 
+The model successfully predicts test scores with reasonable accuracy. For example, studying 6 hours and sleeping 7 hours predicts a score of about 82.
