@@ -1,0 +1,4 @@
+C:\Users\322258\AppData\Roaming\Python\Python310\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+The AI predicted a test score of 81.92602448110698 for a student who studied 6 hours and slept 8 hours.
+>>> 
